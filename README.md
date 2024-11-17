@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello World! I'm Stormy, a student studying MEng(Hons) Electrical & Electronic Engineering 👨‍💻 
+### <div align="center">Hello World! 👨‍💻 
 </div>  
   
 
